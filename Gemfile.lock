@@ -107,6 +107,7 @@ GEM
 
 PLATFORMS
   -darwin-20
+  ruby
 
 DEPENDENCIES
   html-proofer (~> 3.18)
